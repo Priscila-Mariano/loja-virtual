@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+}
+
+.container{
+    background-color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+h5, h6 {
+    text-align: center;
+}
+
+#logo-loja{
+    width: 100%;
+}
+
+#imagem-logo{
+    margin-bottom: 30px;
+}
+
+#titulos-destaques {
+    margin-bottom: 30px;
+}
+
+#rodape {
+    padding-top: 50px ;
+    background-color: darkgray;
+    color: white;
+}
+
+#rodape img{
+    width: 40px;
+}
